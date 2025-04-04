@@ -1,0 +1,8 @@
+title: "Dr. Hasan Masrur"
+author: "Hasan Masrur"
+description: "Academic website for Dr. Hasan Masrur"
+baseurl: ""
+url: "https://masrur.github.io"
+
+theme: minima
+markdown: kramdown
